@@ -1,6 +1,5 @@
 <template>
   <div>
-    <HelloWorldAppOne />
     <HelloWorldBase />
   </div>
 </template>
